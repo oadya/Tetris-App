@@ -1,0 +1,4 @@
+trivy --version
+aws --version
+terraform --version
+kubectl version
